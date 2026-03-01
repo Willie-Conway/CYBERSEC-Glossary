@@ -24,13 +24,10 @@
 
 **Comprehensive cybersecurity glossary database** featuring 60+ terms across certifications, roles, concepts, organizations, and skills. Built as a clean, searchable reference tool for cybersecurity professionals, students, and career-changers. Includes detailed definitions for all major industry certifications (CompTIA, (ISC)², GIAC, EC-Council) and essential security concepts. 📚
 
-### **Website** 🌐
-
-https://willie-conway.github.io/CYBERSEC-Glossary/
-
-### **Topics** 🏷️
-
-`cybersecurity` `glossary` `reference` `certifications` `security` `infosec` `comptia` `isc2` `giac` `ec-council` `security-plus` `cissp` `cisa` `ceh` `network-plus` `a-plus` `casp` `pentest-plus` `cysa-plus` `security-terms`
+### **Tech Stack** 🛠️
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Design**: Custom cyberpunk aesthetic with scanline overlay
+- **Features**: Search, grid/list toggle, responsive layout
 
 ---
 

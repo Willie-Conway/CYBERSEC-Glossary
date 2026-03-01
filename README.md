@@ -1,3 +1,6 @@
+
+![alt text](<Screenshots/CYBERSEC logo.png>)
+
 # CYBERSEC-Glossary
 
 
@@ -18,16 +21,9 @@
 
 ---
 
-## 📋 Repository Info
+## 🚀 Overview
 
-### **About** 🔐
-
-**Comprehensive cybersecurity glossary database** featuring 60+ terms across certifications, roles, concepts, organizations, and skills. Built as a clean, searchable reference tool for cybersecurity professionals, students, and career-changers. Includes detailed definitions for all major industry certifications (CompTIA, (ISC)², GIAC, EC-Council) and essential security concepts. 📚
-
-### **Tech Stack** 🛠️
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Design**: Custom cyberpunk aesthetic with scanline overlay
-- **Features**: Search, grid/list toggle, responsive layout
+**CYBERSEC Glossary** is a comprehensive cybersecurity reference database featuring **60+ terms** across **6 categories**, including **28 industry certifications** from major bodies like **CompTIA, (ISC)², and GIAC**. Designed for professionals and students, this interactive tool provides quick access to definitions, exam objectives, and career insights. Built with **HTML, CSS, and JavaScript**, it offers a responsive, terminal-style interface with **grid/list views** and **search functionality**.
 
 ---
 

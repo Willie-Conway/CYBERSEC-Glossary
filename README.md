@@ -1,8 +1,4 @@
-
 ![alt text](<Screenshots/CYBERSEC logo.png>)
-
-# CYBERSEC-Glossary
-
 
 # 📖 CYBERSEC Glossary — Cybersecurity Reference Database
 
@@ -349,7 +345,6 @@ MIT License — see LICENSE file for details.
 <p align="center">
   <strong>📖 CYBERSEC Glossary — Your Complete Cybersecurity Reference Database 📖</strong>
 </p>
-
 
 ---
 

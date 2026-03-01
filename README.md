@@ -103,12 +103,19 @@
 └─────────────────────────────────────┘
 ```
 
+![alt text](<Screenshots/All terms.png>)
+
+
 ### 🎨 **Dual View Modes**
 
 | View                | Icon   | Description                          |
 | ------------------- | ------ | ------------------------------------ |
 | **Grid View** | `⊞` | Card-based layout with term previews |
 | **List View** | `☰` | Compact list for quick scanning      |
+
+
+![alt text](Screenshots/Display.png)
+
 
 ### 📖 **Term Card Features**
 
@@ -117,6 +124,9 @@
 - **Definition preview** (collapsed view)
 - **Copy button** for easy definition sharing
 - **Highlighted search terms** in results
+
+
+![alt text](Screenshots/Define.png)
 
 ### 🎨 **Category Color Coding**
 
